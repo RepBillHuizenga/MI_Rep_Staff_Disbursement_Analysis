@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+seaborn
+matplotlib
+jupyter
+notebook
+us
+nameparser
+cached_property
